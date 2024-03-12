@@ -1,6 +1,8 @@
 # tap-api
 
-Replace .envExample and api/.envExample with the real .env file
+Replace `.envExample` and `api/.envExample` with the real `.env` file
+
+用真正的 `.env` 文件替换 `.envExample` 和 `api/.envExample`
 
 ## Official API Document
 
