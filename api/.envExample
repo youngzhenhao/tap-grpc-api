@@ -1,0 +1,5 @@
+UNLOCK_PASSWORD="xxxxxxxx"
+RPC_SERVER="xxx.xxx.xxx.xxx:xxxx"
+TLS_CERT_PATH="xxx/xxx/tls.cert"
+MACAROON_PATH="xxx/xxx/admin.macaroon"
+NETWORK="testnet"
